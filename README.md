@@ -33,3 +33,7 @@ BtnDark.TouchUpInside += (sender, e) => {
 ```
 
 This is a binding project based on https://github.com/TimOliver/TOActionSheet
+
+###Output
+
+![](https://github.com/guntidheerajkumar/KBActionSheet/blob/master/Output.gif)
